@@ -16,7 +16,7 @@
 
 ## Triển khai tìm lỗi 
 
-- Đầu tiên khi cài đặt **Confluence** sẽ có bước cấu hình cho máy chủ hoạt động ví dụ như là kết nối DATABASE, tạo người dùng, ... Những việc này được thực hiện thông qua trình duyệt WEB và các đường dẫn URL ==**/setup/**==. Bước cuối cùng của cấu hình sẽ là ==**/setup/setupadministrator.action**==. 
+- Đầu tiên khi cài đặt **Confluence** sẽ có bước cấu hình cho máy chủ hoạt động ví dụ như là kết nối DATABASE, tạo người dùng, ... Những việc này được thực hiện thông qua trình duyệt WEB và các đường dẫn URL **/setup/**. Bước cuối cùng của cấu hình sẽ là **/setup/setupadministrator.action**. 
 - Sau khi hoàn thành thành thì các thiệt lập sẽ không được gọi. Nếu chúng ta cố gọi thì nó sẽ hiền thị thông báo lỗi
 
 ![1](image/1.png)
